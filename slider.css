@@ -1,0 +1,31 @@
+body{
+    background-color: white;
+}
+.text-muted{
+    color:black;
+}
+#slider {
+    width: 720px;
+    height:400px;
+    overflow:hidden;
+    box-shadow: 10px 10px 5px #8d8d8d;
+
+}
+#slider:hover{
+    box-shadow: 10px 10px 5px #98bf21;
+
+}
+#slider .slides{
+    display:block;
+    width:6000px;
+    height:400px;
+    margin:0;
+    padding:0;
+}
+
+#slider .slide{
+    float: left;
+    list-style-type: none;
+    width:720px;
+    height: 300px;
+}
