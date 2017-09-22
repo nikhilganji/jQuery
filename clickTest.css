@@ -14,7 +14,7 @@ body {
 }
 #panel1{
     background-color: red;
-    width: 100px;
+    width: 101px;
     height: 100px;
     display:inline-block;
     margin:5px;
